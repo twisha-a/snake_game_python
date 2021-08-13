@@ -1,4 +1,4 @@
-mport curses
+import curses
 from random import randint
 
 curses.initscr()
